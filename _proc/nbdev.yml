@@ -1,0 +1,9 @@
+project:
+  output-dir: _docs
+
+website:
+  title: "python-exp"
+  site-url: "https://uphill-ai.github.io/python-exp"
+  description: "Python nbdev experiments"
+  repo-branch: main
+  repo-url: "https://github.com/uphill-ai/python-exp"
